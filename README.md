@@ -1,4 +1,6 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Kaushik Rajbongshi</h1>
+<h3 align="center">💻 Full Stack Next.js Developer | Building Scalable & High-Performance Web Apps Passionate about creating end-to-end web solutions that combine elegant UI with robust backend systems.</h3>
 🔭 I’m currently working on EchoPost – A full-stack post-sharing platform with authentication, search, and real-time updates.<br><br>🌱 I’m currently learning Next.js Middleware & Server Actions API security best practices (JWT, OAuth)<br><br>👯 I’m looking to collaborate on Cutting-edge Next.js applications, Scalable backend architectures (Node.js, Express, MongoDB), Open-source contributions in frontend & backend ecosystems<br><br>💬 Ask me about Full-stack app architecture Next.js, React, Tailwind CSS Mongoose & MongoDB API design & integrations<br><br>📫 How to reach me kaushikraj0241@gmail.com Portfolio: [Coming soon] Blog: [Coming soon]<br><br>📄 Know about my experiences https://github.com/officialkaushikproject<br><br>⚡ Fun fact I turn coffee into code — and occasionally into bugs<br><br>
 
 
